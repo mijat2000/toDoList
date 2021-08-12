@@ -9,7 +9,7 @@ import { ShowDetailService } from '../show-detail.service';
 })
 export class ToDoItemComponent implements OnInit {
   @Input() toDoItem: any;
-
+//probaaaa
   constructor(private data: ShowDetailService) {}
   changeDetail() {
     this.data.changeToDo(this.toDoItem);

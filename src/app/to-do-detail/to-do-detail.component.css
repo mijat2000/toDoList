@@ -1,0 +1,13 @@
+h2 {
+  text-align: center;
+}
+i {
+  margin: 20px;
+}
+p {
+  margin: 20px;
+}
+.to-do-detail {
+  background-color: rgb(214, 118, 118);
+  color: white;
+}

@@ -1,0 +1,13 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 2em;
+  flex-wrap: wrap;
+  align-items: center;
+  color: white;
+  background-color: rgb(214, 118, 118);
+}
+.search-input {
+  padding: 1em;
+}

@@ -9,7 +9,6 @@ import { toDo } from '../toDoInterface';
 export class ShowTodoListComponent implements OnInit {
   todos: toDo[] = toDos;
 
-  
   constructor() {}
 
   ngOnInit(): void {}
